@@ -1,0 +1,7 @@
+{
+	"sources-file":"sources.json",
+	"download-directory":"data/download",
+	"converted-directory":"data/converted",
+	"csv-directory":"data/csv",
+	"generated-directory":"data/generated"
+}
